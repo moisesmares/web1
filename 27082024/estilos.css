@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    border: 1px solid black;
+}
+.parrafoRojo{
+    font-size: 25px;
+    border: 1px solid red;
+}
+.parrafoAmazul{
+    color: brown;
+    background-color: beige;
+    border: 1px solid rebeccapurple;
+    margin-top: 120px;
+    padding-bottom: 120px;
+}
